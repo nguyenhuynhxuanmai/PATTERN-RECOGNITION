@@ -1,0 +1,9 @@
+Năm 2018, rất nhiều nhà phát triển điện thoại thông minh đang nhắm đến việc kết hợp máy quét vân tay trong chính màn hình. Vivo là người đầu tiên đưa ra thị trường một thiết bị như vậy. Điện thoại Vivo có cảm biến Synaptic CMOS, camera nhỏ, được dán vào mặt sau của tấm nền OLED. Bất cứ khi nào màn hình OLED sáng lên, nó cũng sẽ chiếu sáng dấu vân tay của bạn, mà cảm biến nhìn thấy và sau đó so sánh nó với thông tin đã được lưu trữ. Đối với người dùng, kết quả là một trải nghiệm liền mạch: chỉ cần chạm ngón tay vào màn hình và điện thoại của bạn sẽ mở khóa.
+- Link: https://youtu.be/2Jhto1-gfMM
+
+Nhóm tin tặc Chaos Computer Club (CCC) đã qua mặt hệ thống bảo mật vân tay Touch ID trên iPhone 5s với một vân tay giả bằng keo.
+- Link: https://youtu.be/HM8b8d8kSNQ
+	https://youtu.be/npR11DOzqRw
+
+1 người xấu tìm cách lấy iPhone của bạn trong 1 thời gian ngắn và bỏ vào 1 máy quét scan trên màn hình của chiếc iphone quá trình này mất chưa đến 1 phút. Dĩ nhiên trên đó sẽ có các dấu vân tay của bạn bao gồm cả ngón tay chứa dữ liệu touchID. Sau đó người này dùng các kỹ thuật photoshop để lấy dấu vân tay rõ nhất và in ảnh. Tiếp theo, người này dùng các kỹ thuật in 3D và bôi các chất liệu làm nổi các vân tay và giả da người thật
+- Link: https://youtu.be/uRhVlONZrBE
